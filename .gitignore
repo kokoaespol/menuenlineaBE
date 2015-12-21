@@ -1,0 +1,13 @@
+*.pyc
+/menuenlineabackend/settings*.py
+/menuenlineabackend/wsgi*.py
+/carga
+/media
+/env
+/static
+deploy.sh
+backup-file.sql
+db.sqlite3
+users
+*~
+.idea/*
